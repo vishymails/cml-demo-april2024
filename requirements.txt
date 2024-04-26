@@ -1,3 +1,5 @@
-setuptools
-scikit-learn
+pandas
 matplotlib
+seaborn
+numpy
+scikit-learn
